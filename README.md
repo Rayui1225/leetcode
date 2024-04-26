@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2541|[Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/description/)||Medium|
 |3034|[Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Number%20of%20Subarrays%20That%20Match%20a%20Pattern%20I.go)|Medium|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Open%20the%20Lock.go)|Medium|
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Maximum%20Average%20Pass%20Ratio.go)|Medium|
