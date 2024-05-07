@@ -4,7 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)||Medium|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Construct%20String%20from%20Binary%20Tree.go)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|[c++](https://github.com/Rayui1225/leetcode/edit/main/Algorithm/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)|Medium|
 |2541|[Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/description/)|[c++](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Minimum%20Operations%20to%20Make%20Array%20Equal%20II.cpp)|Medium|
 |3034|[Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Number%20of%20Subarrays%20That%20Match%20a%20Pattern%20I.go)|Medium|
