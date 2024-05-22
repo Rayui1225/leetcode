@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/)|[go]|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Compare%20Version%20Numbers.go)|Medium|
 |1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Minimum%20Falling%20Path%20Sum%20II.go)|Hard|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)|[go](https://github.com/Rayui1225/leetcode/blob/main/Algorithm/Construct%20String%20from%20Binary%20Tree.go)|Medium|
